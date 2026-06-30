@@ -2,4 +2,4 @@
 .venv/
 *.sqlite3
 *.pyc
-**__pacache__/
+**__pycache__/
